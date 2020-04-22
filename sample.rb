@@ -1,3 +1,3 @@
 def hello
-  p "helloß."
+  p "hello, GitHub Desktop."
 end
